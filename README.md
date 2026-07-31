@@ -1,6 +1,8 @@
 <h1 align="center">Hi there! ✮ ⋆ ˚｡𖦹 ⋆｡°✩  I'm Camila</h1>
+
 ![Location](https://img.shields.io/badge/Location-Buenos_Aires%2C_Argentina-75AADB?style=for-the-badge&logo=googlemaps&logoColor=white)
 <div align="center">
+  
   <img src="https://media.tenor.com/BOuM-pZkNhUAAAAi/sans-undertale.gif" alt="Sans Undertale dance">
 </div>
 
