@@ -72,4 +72,4 @@
 
 ### 📫 Let's connect!
 
-- 💼 **LinkedIn:** 
+- 💼 **LinkedIn:** https://www.linkedin.com/in/camila-juan/
